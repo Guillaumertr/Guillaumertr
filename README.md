@@ -18,7 +18,9 @@ Welcome to my GitHub profile — a space where I share projects at the intersect
 
 ### 🧮 [Advanced Option Pricing](https://github.com/Guillaumertr/Advanced-Option-Pricing-Models)
 > Pricing American options via regression (polynomial, Hermite, augmented) and deep neural networks. Includes comparison with benchmark models.
+
 > Learn optimal hedging strategies via PyTorch-based neural networks under transaction costs. A modern approach to risk management.
+
 > Complete tree-based pricing framework with backward induction and Monte Carlo rollout simulation.
 
 ### 📉 [Bid-Ask Replication with Leland Volatility](https://github.com/Guillaumertr/Bid-Ask-Replication)
