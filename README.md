@@ -6,7 +6,7 @@ Welcome to my GitHub profile — a space where I share projects at the intersect
 
 ## 🧠 About Me
 - 🎓 Currently enrolled in the **Master 2 Probabilité et Finance (ex-DEA El Karoui)** at École Polytechnique & Sorbonne Université.
-- 🏦 Currently a quantitative research intern at **BNP Paribas Asset Managemetn**, working on alpha signal in the equity market.
+- 🏦 Quantitative research intern at **BNP Paribas Asset Managemetn**, working on alpha signal in the equity market.
 - 🔬 Passionate about **stochastic processes**, **numerical methods**, and **optimal decision-making under uncertainty**.
 
 ---
